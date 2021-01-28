@@ -30,4 +30,4 @@ pacman::p_load(tidyverse,
 setwd(C:/Users/Jazmin Rodriguez/OneDrive/INFONAVIT)
 viviendas<-read.csv()
 ```
-
+\newpage
